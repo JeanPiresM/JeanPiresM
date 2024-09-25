@@ -17,7 +17,7 @@
 <img src="https://skillicons.dev/icons?i=vscode,eclipse,postgres,mysql"/>
 
 <h2 align="center">Estou estudando: </h2>
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python,aws"/>
 
 <h2>Contatos</h2>
 

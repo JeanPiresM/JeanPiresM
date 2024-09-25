@@ -18,3 +18,15 @@
 
 <h2 align="center">Estou estudando: </h2>
 <img src="https://skillicons.dev/icons?i=python"/>
+
+<h2>Contatos</h2>
+
+<div>
+<a href="mailto: jeanpires223@gmail.com">
+<img width="100px" height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jean-pires-moreira/">
+  <img width="100px" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+</div>

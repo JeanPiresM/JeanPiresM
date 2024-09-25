@@ -19,8 +19,8 @@
 <h2 align="center">Estou estudando: </h2>
 <img src="https://skillicons.dev/icons?i=python,aws"/>
 
-<h2>Contatos</h2>
 
+<h2 align="center">Contatos</h2>
 <div>
 <a href="mailto: jeanpires223@gmail.com">
 <img width="100px" height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
